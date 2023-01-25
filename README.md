@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub for LT Intro to AI
 
 ## 🤓 Course overview and learning outcomes 
 
