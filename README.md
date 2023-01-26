@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub for LT Intro to AI
+# :wave: The Basics of GitHub for LT Intro to AI. Git Hub is amazing and super cool and the best platform ever!!!!
 
 ## 🤓 Course overview and learning outcomes 
 
